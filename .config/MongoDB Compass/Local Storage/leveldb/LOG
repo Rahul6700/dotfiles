@@ -1,0 +1,9 @@
+2024/11/29-12:15:54.759 18a9 Reusing MANIFEST /home/rahul/.config/MongoDB Compass/Local Storage/leveldb/MANIFEST-000001
+2024/11/29-12:15:54.766 18a9 Recovering log #19
+2024/11/29-12:15:54.767 18a9 Reusing old log /home/rahul/.config/MongoDB Compass/Local Storage/leveldb/000019.log 
+2024/11/29-12:17:55.322 1893 Level-0 table #23: started
+2024/11/29-12:17:55.325 1893 Level-0 table #23: 16606 bytes OK
+2024/11/29-12:17:55.326 1893 Delete type=0 #19
+2024/11/29-12:54:55.323 1893 Level-0 table #25: started
+2024/11/29-12:54:55.328 1893 Level-0 table #25: 16547 bytes OK
+2024/11/29-12:54:55.329 1893 Delete type=0 #22

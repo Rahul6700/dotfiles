@@ -1,0 +1,76 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="3" l="1729492953666" />
+    </e>
+    <e n="$Undo">
+      <i c="18" l="1729493116399" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="269" l="1729493110202" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="8" l="1729493093403" />
+    </e>
+    <e n="EditorCopy">
+      <i c="3" l="1729492954509" />
+    </e>
+    <e n="EditorDown">
+      <i c="5" l="1729493104892" />
+    </e>
+    <e n="EditorEnter">
+      <i c="31" l="1729493087800" />
+    </e>
+    <e n="EditorLeft">
+      <i c="14" l="1729492853581" />
+    </e>
+    <e n="EditorRight">
+      <i c="37" l="1729493074528" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1729491739210" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1729492074766" />
+    </e>
+    <e n="EditorUp">
+      <i c="5" l="1729492986345" />
+    </e>
+    <e n="Run">
+      <i c="18" l="1729492992699" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1729491900491" />
+    </e>
+    <e n="ShowSettings">
+      <i c="5" l="1729492526247" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1729491655334" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1729491677225" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1729508620633" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="5" l="1729492523899" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1729491645741" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1729492081987" />
+    </e>
+    <e n="com.intellij.webcore.packaging.InstalledPackagesPanel$4">
+      <i c="1" l="1729492562468" />
+    </e>
+    <e n="com.jetbrains.python.packaging.ui.PyInstalledPackagesPanel$2">
+      <i c="2" l="1729492540944" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="1" l="1729492535049" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,6 @@
+.dotfiles
+.cache/
+.local/share/
+.ssh/
+.mozilla/
+.steam/

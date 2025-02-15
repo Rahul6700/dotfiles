@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/fingerprint">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fingerprint – main.py" projectWorkspaceId="2njfz9RywUoi19HRRDdcJCvMuhQ">
+              <option name="activationTimestamp" value="1734766020234" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-242.23339.19" />
+              <option name="buildTimestamp" value="1727299440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="32" width="1440" height="868" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1729491666521" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/license">
+          <value>
+            <RecentProjectMetaInfo frameTitle="license – test.py" opened="true" projectWorkspaceId="2qW6X5PErbNDSbR6flotVquUBjX">
+              <option name="activationTimestamp" value="1734782466409" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-243.22562.180" />
+              <option name="buildTimestamp" value="1733930100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="0" y="32" width="1440" height="868" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1734766021236" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/license" />
+  </component>
+</application>

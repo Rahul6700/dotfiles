@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/fingerprint">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fingerprint – main.py" opened="true" projectWorkspaceId="2njfz9RywUoi19HRRDdcJCvMuhQ">
+              <option name="activationTimestamp" value="1729508620751" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-242.23339.19" />
+              <option name="buildTimestamp" value="1727299440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="32" width="1440" height="868" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1729491666521" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/fingerprint" />
+  </component>
+</application>

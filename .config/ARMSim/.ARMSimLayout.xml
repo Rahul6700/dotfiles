@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DockingWindows2>
+  <ARMSimApplicationSettings>
+    <MainForm>
+      <WindowSettings Location="{X=0,Y=64,Width=1635,Height=1287}" State="Normal" />
+    </MainForm>
+    <Views>
+      <CodeView />
+      <OutputView />
+      <WatchView />
+      <RegistersView CurrentDisplayBase="Hexadecimal" CurrentRegisterTab="0" CurrentFPDisplayBase="Single" />
+      <DataCacheView />
+      <InstructionCacheView />
+      <UnifiedCacheView />
+      <StackView />
+      <PluginUIView />
+    </Views>
+    <MRUMenuSettings>
+      <RecentFiles Files="/home/rahul/sem4/mpca/lab/test.s" />
+      <MultiFiles MultiFiles="False" />
+    </MRUMenuSettings>
+    <ARMPreferences>
+      <SimulatorPreferences>
+        <MainMemory StartAddress="00001000" StackArea="0020" HeapArea="0020" FillPattern="81818181" StopOnMisaligned="True" StackGrowsDown="True" ProtectTextArea="False" />
+      </SimulatorPreferences>
+      <CachePreferences UnifiedCache="False">
+        <DataCache Enabled="False" BlockSize="16" NumberBlocks="16" BlocksPerSet="1" ReplaceStrategy="RoundRobin" WritePolicy="WriteThrough" AllocatePolicy="Both" />
+        <InstructionCache Enabled="False" BlockSize="16" NumberBlocks="16" BlocksPerSet="1" ReplaceStrategy="RoundRobin" />
+      </CachePreferences>
+      <GeneralPreferences>
+        <ExitSettings SyncCache="False" CloseFiles="False" />
+        <StandardFiles StdoutOverwrite="False" StderrOverwrite="False" />
+      </GeneralPreferences>
+      <Plugins>
+        <ActivatedPlugin Name="AngelSWIInstructions" Assembly="ARMSim.exe" />
+      </Plugins>
+    </ARMPreferences>
+  </ARMSimApplicationSettings>
+</DockingWindows2>

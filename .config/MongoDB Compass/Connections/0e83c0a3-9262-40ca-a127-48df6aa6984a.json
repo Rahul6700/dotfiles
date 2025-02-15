@@ -1,0 +1,17 @@
+{
+  "_id": "0e83c0a3-9262-40ca-a127-48df6aa6984a",
+  "connectionInfo": {
+    "id": "0e83c0a3-9262-40ca-a127-48df6aa6984a",
+    "lastUsed": "2024-11-29T06:45:59.721Z",
+    "favorite": {
+      "name": "wt-project"
+    },
+    "savedConnectionType": "recent",
+    "connectionOptions": {
+      "connectionString": "mongodb+srv://AshishPavan@cluster0.ijbul.mongodb.net/",
+      "oidc": {}
+    }
+  },
+  "connectionSecrets": "djExVZB3bLdT2i7rk4PEcRYbkX8JrcdwXokrI5LQfOVjc3MIU1y9KbCk4iMz7ENh051G7NZDRt59CRmtq7EYBXwxy4F90JKrtt9V6ktR7QMkwGBFTBVENLR9psMFTD33hYeruOrMT6DNrjZCxPSI92iDHA==",
+  "version": 1
+}

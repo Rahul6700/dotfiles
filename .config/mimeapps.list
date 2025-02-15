@@ -1,0 +1,17 @@
+[Default Applications]
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/http=vivaldi-stable.desktop
+application/xhtml+xml=vivaldi-stable.desktop
+text/html=vivaldi-stable.desktop
+x-scheme-handler/https=vivaldi-stable.desktop
+
+[Added Associations]
+application/pdf=com.google.Chrome.desktop;org.gnome.Evince.desktop;
+x-scheme-handler/http=com.google.Chrome.desktop;vivaldi-stable.desktop;
+application/xhtml+xml=com.google.Chrome.desktop;vivaldi-stable.desktop;
+text/html=com.google.Chrome.desktop;vivaldi-stable.desktop;
+x-scheme-handler/https=com.google.Chrome.desktop;vivaldi-stable.desktop;
+application/vnd.ms-powerpoint=com.google.Chrome.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+application/x-ms-dos-executable=org.gnome.FileRoller.desktop;
+image/png=display-im6.q16.desktop;org.gnome.eog.desktop;
